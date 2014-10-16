@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[alj:home|Door43 (alj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-alj|d43-alj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-alj/archive/master.zip|d43-alj.zip]]
+
+**Recent Changes**
+{{changes>ns = alj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/alj|Ethnologue data]]
+
